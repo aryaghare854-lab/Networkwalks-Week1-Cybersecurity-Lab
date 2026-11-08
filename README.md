@@ -53,6 +53,60 @@ The network configuration was verified using the `ip a` command. Connectivity wa
 
 Successfully configured a Kali Linux virtual machine with network connectivity, ready for future cybersecurity practicals.
 
+
+---
+
+## Additional Work – Wireshark SOC Project
+
+As part of my Networkwalks Cybersecurity Program (Batch B084), I completed an additional Wireshark SOC Project consisting of 6 practical labs, each containing 10 investigation tasks.
+
+### Tools Used
+- Wireshark
+- PCAP Network Captures
+- TCP/IP and HTTP Protocol Analysis
+
+### 1. Wireshark SOC Labs
+
+| Lab | Investigation | Score | Result |
+|---|---|---:|---|
+| Lab 3 | Identify the Attacker's IP | 100% | [View Lab 3 Result](./wireshark-labs/Lab%203%20Result%20-%20Arya%20Ananda%20Ghare.png) |
+| Lab 4 | Follow TCP Stream – Part 1 | 90% | [View Lab 4 Result](./wireshark-labs/Lab%204%20Result%20-%20Arya%20Ananda%20Ghare.png) |
+| Lab 5 | Follow TCP Stream – Part 2 | 90% | [View Lab 5 Result](./wireshark-labs/Lab%205%20Result%20-%20Arya%20Ananda%20Ghare.png) |
+| Lab 6 | HTTP Plain Text Credentials | 100% | [View Lab 6 Result](./wireshark-labs/Lab%206%20Result%20-%20Arya%20Ananda%20Ghare.png) |
+| Lab 7 | Catch the Brute Force Attacker | 100% | [View Lab 7 Result](./wireshark-labs/Lab%207%20Result%20-%20Arya%20Ananda%20Ghare.png) |
+| Lab 8 | Catch the Call Scammer (VoIP) | 100% | [View Lab 8 Result](./wireshark-labs/Lab%208%20Result%20-%20Arya%20Ananda%20Ghare.png) |
+
+**Overall Lab Score: 93.33%**
+
+### 2. Wireshark Quizzes
+
+| Quiz | Score | Result |
+|---|---:|---|
+| Wireshark Quiz | 100% | [View Wireshark Quiz Result](./wireshark-quizzes/Screenshot%202026-11-07%20224939.png) |
+| Advanced Wireshark Quiz | 80% | [View Advanced Wireshark Quiz Result](./wireshark-quizzes/Screenshot%202026-11-08%20111525.png) |
+
+**Overall Quiz Score: 90%**
+
+### 3. Skills Practiced
+
+- Network packet capture and traffic analysis.
+- Identifying suspicious IP addresses and attackers.
+- Wireshark display filters.
+- TCP stream reconstruction.
+- HTTP plaintext credential analysis.
+- Brute-force attack detection.
+- VoIP traffic investigation.
+- Network protocol analysis.
+
+### 4. Learning Outcome
+
+Gained hands-on experience in network traffic analysis, packet inspection, network forensics and SOC investigation techniques through practical Wireshark exercises.
+
+**Platform:** Networkwalks  
+**Program:** Cybersecurity Internship  
+**Batch:** B084
+
+
 ## Acknowledgment
 
 Thank you to Sir Waqas Karim (CCIE) and the Networkwalks team for the guidance and support.
